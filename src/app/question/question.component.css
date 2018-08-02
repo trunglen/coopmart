@@ -1,0 +1,17 @@
+:host{
+    display: block;
+    height: 65vh;
+}
+.title {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.screen-title {
+    font-size: 32px;
+    margin: 40px 0 40px 0;
+}
+.question-title {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
